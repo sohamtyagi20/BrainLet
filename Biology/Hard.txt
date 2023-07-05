@@ -1,0 +1,7 @@
+This ionic functional group behaves like an acid, dissociating to produce H+ ions and becoming negatively charged. Some examples are nucleotides and nucleic acids. #Phosphate, Sulfhydryl, Amino, Carboxyl
+Cellulose is the main component of plant cell walls. Name the type of glucose it contains. #Beta-glucose, Alpha-glucose, Gamma-glucose, Glycosidic
+This stage of aerobic cellular respiration is an example of substrate-level phosphorylation. It consists of ten sequential enzyme-catalyzed reactions. #Glycolysis, Pyruvate Oxidation, Kreb’s Cycle, Electron Transport
+Chlorophylls are major photosynthetic pigments in plants and green algae. The most dominant types are chlorophyll a and b. Name the second major group of pigment molecules. #Carotenoids, Anthocyanins, Betalains, Chloroplasts
+This individual used a light microscope and a glass prism to determine which light wavelengths were most effective for photosynthesis by using Spirogyra. #Engelmann, Watson, Endelmann, Ingenhousz
+Bacterial DNA is different from eukaryotic DNA. In bacteria, name the process that explains how plasmids exit one cell and enter another. #Conjugation, Supercoiling, Senescence, Aminoacylation
+In a spliceosome, these collections of small ribonucleoproteins bind to introns and signal them for removal. #snRNPs, SNPs, splices, inducer
